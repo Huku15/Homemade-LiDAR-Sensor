@@ -24,7 +24,7 @@ with distance into x, y, z coordinates and plots a live 3D point cloud.
 - Arduino sketch(C++) that sweeps both servos and reads the sensor at point of pan and tilt over serial
 - MATLAB program that reads the serial data and converts the readings (two angles plus distance) into Cartesian x, y, z, and renders a live 3D point cloud
 
-- ## Notes
+## Notes
 
 - This maps in 3D from a single fixed spot, so it captures the surfaces facing the sensor, with shadows behind objects.
 - A full 1-degree scan takes around 15 to 20 minutes. It is a work in progress.
