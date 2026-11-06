@@ -11,7 +11,7 @@ can point anywhere in a wide cone. At each position the sensor measures distance
 pan angle, tilt angle, and distance over serial. A MATLAB program reads that stream and converts the two angles
 with distance into x, y, z coordinates and plots a live 3D point cloud.
 
-![Scene](Scene.jpg)
+![Scene](Scene.heic)
 ![Point cloud scan](MATLAB%20image.png)
 
 ## Hardware
